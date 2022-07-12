@@ -10,6 +10,7 @@ Minha principal ferramenta de estudo foi o curso de Desenvolvimento Web na Trybe
 Em conjunto, também fiz outros cursos e li livros para aprofundar meus conhecimentos.
 Curso | Status
 :---: | :---:
+[Mini-curso de TypeScript (Willian Justen)](https://www.youtube.com/watch?v=mRixno_uE2o&list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) | 🕘
 [ServiceNow Fundamentals (NowLearning)](https://nowlearning.servicenow.com/lxp?id=learning_path_prev&path_id=6b78901c1b748050b1c7fe631a4bcb73) | 🕘
 [Desenvolvimento Web (Trybe)](https://www.betrybe.com/) | ✅
 [Testes com Javascript (Fabio Vedovelli)](https://javascript.tv.br/) | 🕘
